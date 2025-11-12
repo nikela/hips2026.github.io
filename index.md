@@ -195,15 +195,15 @@ Any paper that is not presented at the conference will not be included in IEEE X
 # Committees
 
 ## Workshop Co-chairs
-- Martin Kong The Ohio State University, Columbus, Ohio, USA (moreno.244@osu.edu)
-  \  Related organization experience: General Chair of
+- Martin Kong The Ohio State University, Columbus, Ohio, USA (moreno.244@osu.edu)\
+    Related organization experience: General Chair of
     Compiler Construction 2026; Artifact Evaluation
     Chair of Compiler Construction 2024 & 2022;
     Member of program committees such as CGO’25,
     SC’23, PPoPP’24; Workshops and Tutorials Chair -
     CGO’24.
-- Nikela Papadopoulou, University of Glasgow (Nikela.Papadopoulou@glasgow.ac.uk)
-  \  Related organization experience: Chair of AshES
+- Nikela Papadopoulou, University of Glasgow (Nikela.Papadopoulou@glasgow.ac.uk)\
+    Related organization experience: Chair of AshES
     Workshop at IPDPS (2023, 2024, 2025); Proceedings
     Chair of FPL 2023; Member of program committees
     such as IEEE CLUSTER’25, EuroPar’25, SC’25
