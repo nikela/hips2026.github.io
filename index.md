@@ -43,21 +43,7 @@ systems and many-core architectures.
 
 ## Keynote
 (Coming Soon)
-<!-- 09:30 - 10:30 CEST \\
-<!-- **Title: Reflections on 30 years of HPC programming: So many hardware advances, so little adoption of new languages**  \\
-**Bradford Chamberlain, Hewlett Packard Enterprise**
 
-Abstract: \\
-“Programming language design ceased to be relevant in the 1980s.”  So proclaimed a rejection of one of our first HPC language papers roughly 30 years ago.  Yet since then, programmers have experienced the advent, and rise in popularity, of languages such as Java, Javascript, C#, Python, Go, Swift, Julia, and Rust, among others.  These new languages have clearly made strides in areas such as safety, productivity, and parallelism, and in many cases they have become the favorite day-to-day languages of programmers spanning many disciplines.  However, when we reflect on the past 30 years of programming languages for HPC, the situation is not nearly as rosy.  Though many languages have been developed, and a great deal of interesting and compelling work has been achieved and published at venues like HIPS and IPDPS, the programming models used in practice for HPC are much as they were back then:  Fortran, C, C++, MPI, SHMEM, and OpenMP remain the dominant technologies, and SPMD programming and execution are still very much the norm.
-
-Meanwhile, HPC systems have undergone significant transformations over that same period, incorporating multicore processors, multi-socket compute nodes, high-radix/low-diameter network interconnects, NUMA memory architectures, and the rise of GPU computing.  GPUs in particular have arguably resulted in the largest number of new HPC programming models as the community wrestles with how to program GPU-enabled supercomputers effectively.  In the face of these advances, it can often feel as though we have lost ground in terms of programmer productivity during the HIPS era, as systems have become more complex while programming models have remained relatively static.
-
-In this talk, I will give my perspective on the past 30 years of HPC programming languages and models.  In doing so, I will summarize the challenges and barriers to adopting new models, while also arguing for the continuing importance of striving to develop practical, adoptable languages that address the key concerns of HPC programming: specifying parallelism and locality.  Along the way, I will summarize some of the successes of Chapel, a high-level parallel programming language developed by my team at Cray and HPE.  I will also briefly introduce Arkouda—a supportive environment in the form of an extensible Python library that supports driving HPC systems interactively from the comfort of a Jupyter notebook.  Finally, I will describe a vision for changes to the HPC community’s mindset and practices that would help foster the possibility of adopting new, productive languages going forward.
-
-Biography: \\
-Brad Chamberlain is a Distinguished Technologist at Hewlett Packard Enterprise (formerly Cray Inc.) who has spent his career focused on productivity for users of high-performance computing (HPC) systems, particularly through the design and development of the Chapel parallel programming language ([https://chapel-lang.org](https://chapel-lang.org)) as well as contributions to the Arkouda library framework for Python ([https://arkouda-www.github.io/](https://arkouda-www.github.io/)).  He received his Ph.D. in Computer Science & Engineering from the University of Washington in 2001, where he focused on the ZPL data-parallel array language; and he remains associated with the department as an affiliate professor of the Paul G. Allen School.  Brad is a staunch advocate for the importance of better parallel programming languages, models, and tools, particularly for HPC programmers.  He is honored to have the opportunity to speak at HIPS this year, as it’s been an important workshop during his career, serving as the venue for the original Chapel paper and a foundational ZPL paper, among others. -->
-
-<!-- <img src="./assets/Brad-LinuxCon.jpg" style="display: block; margin: 0 auto" width="50%"/> --> 
 
 <!-- ## Coffee Break -->
 <!-- (Coming Soon) -->
@@ -139,7 +125,7 @@ The main focus areas for this workshop may include, but are not limited to:
 - Languages and runtime support for multi-science/coupled codes, including but not limited to ensemble computing and uncertainty quantification
 - Static and dynamic analysis for bug detection of parallel and distributed programs.
 ---
----
+<!-- --- -->
 
 # Important Deadlines
 
