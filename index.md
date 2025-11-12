@@ -173,7 +173,7 @@ opportunity to give a short presentation during the workshop.
 
 All submissions should be formatted according to the IPDPS paper style (IEEE conference style, single-blind).
 
-Please submit papers through [the IPDPS-HIPS Linklings site](https://ssl.linklings.net/conferences/ipdps/?page=Submit&id=HIPSWorkshopFullSubmission&site=ipdps2026)
+<!-- Please submit papers through [the IPDPS-HIPS Linklings site](https://ssl.linklings.net/conferences/ipdps/?page=Submit&id=HIPSWorkshopFullSubmission&site=ipdps2026) -->
 
 [HIPS 2026 Call for Papers] (Coming soon)
 
@@ -196,14 +196,14 @@ Any paper that is not presented at the conference will not be included in IEEE X
 
 ## Workshop Co-chairs
 - Martin Kong The Ohio State University, Columbus, Ohio, USA (moreno.244@osu.edu)
-    Related organization experience: General Chair of
+  \  Related organization experience: General Chair of
     Compiler Construction 2026; Artifact Evaluation
     Chair of Compiler Construction 2024 & 2022;
     Member of program committees such as CGO’25,
     SC’23, PPoPP’24; Workshops and Tutorials Chair -
     CGO’24.
 - Nikela Papadopoulou, University of Glasgow (Nikela.Papadopoulou@glasgow.ac.uk)
-    Related organization experience: Chair of AshES
+  \  Related organization experience: Chair of AshES
     Workshop at IPDPS (2023, 2024, 2025); Proceedings
     Chair of FPL 2023; Member of program committees
     such as IEEE CLUSTER’25, EuroPar’25, SC’25
@@ -250,7 +250,7 @@ Any paper that is not presented at the conference will not be included in IEEE X
 
 | Workshop                                                                       | Date            | Location                            |
 |--------------------------------------------------------------------------------|-----------------|-------------------------------------|
-| [30th HIPS 2025](https://hips2025.github.io)       | 
+| [30th HIPS 2025](https://hips2025.github.io)        
 June 3, 2025    | Milan, Italy
 | [29th HIPS 2024](https://hips2024.github.io/)                                  | May 31st 2023   | San Francisco, California USA       |
 | [28th HIPS 2023](https://hips2023.github.io/)                                  | May 15th 2023   | St. Petersburg, Florida, USA        |
