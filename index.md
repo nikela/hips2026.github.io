@@ -170,7 +170,7 @@ All submissions should be formatted according to the IPDPS paper style (IEEE con
 
 # Proceedings
 
-The accepted full papers will be published in the IPDPS 2025 Workshops proceedings by the IEEE Xplore Digital Library.
+The accepted full papers will be published in the IPDPS 2026 Workshops proceedings by the IEEE Xplore Digital Library.
 (Short papers will not appear in the proceedings.)
 Presentation of an accepted paper at the conference is a requirement of publication.
 Any paper that is not presented at the conference will not be included in IEEE Xplore.
