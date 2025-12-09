@@ -182,9 +182,9 @@ Any paper that is not presented at the conference will not be included in IEEE X
 # Committees
 
 ## Workshop Co-chairs
-- Martin Kong The Ohio State University, Columbus, Ohio, USA [moreno.244@osu.edu](mailto:moreno.244@osu.edu)\
+- Martin Kong The Ohio State University, Columbus, Ohio, USA [moreno.244@osu.edu](mailto:moreno.244@osu.edu)
 - Nikela Papadopoulou, University of Glasgow
-  [Nikela.Papadopoulou@glasgow.ac.uk](mailto:nikela.papadopoulou@glasgow.ac.uk)\
+  [Nikela.Papadopoulou@glasgow.ac.uk](mailto:nikela.papadopoulou@glasgow.ac.uk)
 
 
 ## Steering Committee
