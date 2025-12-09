@@ -162,7 +162,7 @@ All submissions should be formatted according to the IPDPS paper style (IEEE con
 
 Please submit papers through [the HIPS EasyChair site](https://easychair.org/conferences/?conf=hips2026)
 
-[HIPS 2026 Call for Papers] (HIPS26_CFP.txt)
+[HIPS 2026 Call for Papers](HIPS26_CFP.txt)
 <!--
 [IPDPS 2026 Call for Papers] (Coming soon)
 -->
