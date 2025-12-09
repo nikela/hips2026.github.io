@@ -1,0 +1,78 @@
+HIPS 2026: The 31st International Workshop on High-Level Parallel Programming Models and Supportive Environments
+to be held in conjunction with IPDPS 2026
+
+May 25-29, 2026
+New Orleans, USA
+
+[Introduction]
+The 31st HIPS workshop, to be held as a full-day meeting at the IPDPS 2026 conference in New Orleans, Louisiana, USA, focuses on high-level programming of multiprocessors, compute clusters, and massively parallel machines. Like previous workshops in this series — established in 1996 — this event serves as a forum for research in the areasof parallel applications, language design, compilers, runtime systems, and programming tools. It provides a timely forum for scientists and engineers to present the latest ideas and findings in these rapidly changing fields. In our call for papers, we especially invite papers demonstrating innovative approaches in the areas of emerging programming models for largescale parallel systems and many-core architectures.
+
+[Topics of the workshop]
+Topics of interest to the HIPS workshop include but are not limited to:
+
+    - High-level and domain-specific programming systems
+    - Language/compiler support for AI/ML and Cybersecurity/Privacy (e.g., ML-based autotuning)
+    - Application of Large Language Models in highlevel programming environments
+    - Higher-level programming support for quantum computing/quantum simulation
+    - Programming Models and Tools for the EdgeCloud-HPC Continuum  
+    - (Scalable) programming tools and tools for power & performance analysis, modeling, monitoring and debugging, and core correctness
+    - Compiler analysis and optimization techniques
+    - OS and architectural support for parallel programming and debugging
+    - Software and system support for extreme scalability including fault tolerance and poweraware HPC
+    - Programming environments for heterogeneous multicore systems and accelerators such as GPUs and FPGAs
+    - Solutions for programming paradigms for GPUs from different hardware vendors
+    - Performance portability
+    - Efforts for improving the sustainability of scientific software
+    - Languages and runtime support for multiscience/coupled codes, including but not limited to ensemble computing and uncertainty quantification
+    - Static and dynamic analysis for bug detection of parallel and distributed programs.
+
+[Important Dates]
+-Paper submission deadline: January 17, 2026, Anywhere on Earth (AoE)
+-Notification of acceptance: February 21, 2026 AoE
+-Camera-ready papers due: March 6, 2026 AoE
+-Workshop day: May 25, 2026 (IPDPS26 will be from May 25 to 29, 2026)
+
+[Steering Committee]
+Rudolf Eigenmann, University of Delaware, USA
+Michael Gerndt, Technische Universität München, Germany
+Frank Mueller, North Carolina State University, USA
+Martin Schulz, Technische Universität München, Germany
+
+[Organizers (Contact us)]
+Martin Kong, The Ohio State University, Colombus, Ohio, USA (moreno.244@osu.edu)
+Nikela Papadopoulou, University of Glasgow, Glasgow, UK (nikela.papadopoulou@glasgow.ac.uk)
+
+[Program Committee (tentative)]
+Akihiro Ayashi, Georgia Tech, USA
+Doru Popovici, Lawrence Berkeley National Lab, USA
+Florina Ciorba, University of Basel, Switzerland
+Gordon Moon, Sogang University, South Korea
+Jens Domke, RIKEN, Japan
+Jing Chen, Chalmers University of Technology, Sweden
+Jinsung Kim, Chung-Ang University, South Korea
+Johannes Doerfert, Lawrence Livermore National Lab, USA
+Jun Shirako, Georgia Tech, USA
+Kirshanthan Sundararajah, Virginia Tech, USA
+Malith Jayaweera, AWS, USA
+Nicholas Bohm-Agostini, Pacific Northwest National Lab, USA
+Osman Simsek, University of Basel, Switzerland
+Petros Anastasiadis, Huawei Research, Switzerland
+Richard Veras, University of Oklahoma, USA
+Sergio Iserte, Barcelona Supercomputing Center, Spain
+Sunita Chandrasekaran, University of Delaware, USA
+Tiago Cogumbreiro, University of Massachusetts Boston, USA
+
+[Manuscript submission]
+Authors are invited to submit original papers in two separate tracks:
+	- Full papers may not exceed 10 single-spaced double-column pages using 10-point size font on 8.5x11 inch pages (IEEE conference style), including figures, tables, and references. The authors, if accepted, will have the opportunity to present their work during the workshop.
+	- Short papers may not exceed 4 single-spaced double-column pages using 10-point size font on 8.5x11 inch pages (IEEE conference style), including figures, tables, and references. The authors, if accepted, will have the opportunity to give a short presentation during the workshop.
+All submissions should be formatted according to the IPDPS paper style (IEEE conference style, single-blind).
+
+Please submit papers through the IPDPS-HIPS EasyChair site: 
+https://easychair.org/conferences/?conf=hips2026
+
+[Proceedings]
+The accepted full papers will be published in the IPDPS 2026 Workshops proceedings by the IEEE Xplore Digital Library.
+(Short papers will not appear in the proceedings.)
+Presentation of an accepted paper at the conference is a requirement of publication.
+Any paper that is not presented at the conference will not be included in IEEE Xplore.

@@ -30,11 +30,12 @@ systems and many-core architectures.
 <!-- --- -->
 
 # Program
+(TBD)
 <!-- June 3, 2026 \\
 09:00 - 17:35 CEST -->
 
 ## Welcome Remarks 
-(Coming Soon)
+(TBD)
 <!-- 09:00 - 09:05 CEST \\
 **Michael Gerndt** (Technical University of Munich) -->
 
@@ -42,7 +43,7 @@ systems and many-core architectures.
 **Michael Gerndt** (Technical University of Munich) -->
 
 ## Keynote
-(Coming Soon)
+(TBD)
 
 
 <!-- ## Coffee Break -->
@@ -130,15 +131,15 @@ The main focus areas for this workshop may include, but are not limited to:
 
 # Important Deadlines
 
-Submission due date: Early January 2026
+Submission due date: January 17, 2026, Anywhere on Earth (AoE)
 <!-- </strike> January 27 2026 (extended), Anywhere on Earth (AoE) -->
 
-<!-- Author notification: February 21st, 2026 AoE -->
-Author notification: Mid February 2026
+Author notification: February 21st, 2026 AoE
+<!--Author notification: Mid February 2026 -->
 
-<!-- Camera-ready papers: <strike>March 6th, 2026 AoE</strike> March 13th, 2026 AoE -->
+Camera-ready papers: March 6th, 2026 AoE 
 
-Camera-ready papers: End of February 2026
+<!--Camera-ready papers: End of February 2026-->
 <!-- (once approved, dates can/will be adjusted based on IPDPS schedules) -->
 
 ---
@@ -159,12 +160,12 @@ opportunity to give a short presentation during the workshop.
 
 All submissions should be formatted according to the IPDPS paper style (IEEE conference style, single-blind).
 
-<!-- Please submit papers through [the IPDPS-HIPS Linklings site](https://ssl.linklings.net/conferences/ipdps/?page=Submit&id=HIPSWorkshopFullSubmission&site=ipdps2026) -->
+Please submit papers through [the HIPS EasyChair site](https://easychair.org/conferences/?conf=hips2026)
 
-[HIPS 2026 Call for Papers] (Coming soon)
-
+[HIPS 2026 Call for Papers] (HIPS26_CFP.txt)
+<!--
 [IPDPS 2026 Call for Papers] (Coming soon)
-
+-->
 ---
 <!-- --- -->
 
@@ -181,37 +182,36 @@ Any paper that is not presented at the conference will not be included in IEEE X
 # Committees
 
 ## Workshop Co-chairs
-- Martin Kong The Ohio State University, Columbus, Ohio, USA (moreno.244@osu.edu)\
-    <!-- Related organization experience: General Chair of
-    Compiler Construction 2026; Artifact Evaluation
-    Chair of Compiler Construction 2024 & 2022;
-    Member of program committees such as CGO’25,
-    SC’23, PPoPP’24; Workshops and Tutorials Chair -
-    CGO’24. -->
-- Nikela Papadopoulou, University of Glasgow (Nikela.Papadopoulou@glasgow.ac.uk)\
-    <!-- Related organization experience: Chair of AshES -->
-    <!-- Workshop at IPDPS (2023, 2024, 2025); Proceedings -->
-    <!-- Chair of FPL 2023; Member of program committees -->
-    <!-- such as IEEE CLUSTER’25, EuroPar’25, SC’25 -->
-    <!-- workshops. -->
+- Martin Kong The Ohio State University, Columbus, Ohio, USA [moreno.244@osu.edu](mailto:moreno.244@osu.edu)\
+- Nikela Papadopoulou, University of Glasgow
+  [Nikela.Papadopoulou@glasgow.ac.uk](mailto:nikela.papadopoulou@glasgow.ac.uk)\
 
 
 ## Steering Committee
-(Coming soon)
-<!-- Rudolf Eigenmann, University of Delaware, USA
- Michael Gerndt, Technische Universität München, Germany
+Rudolf Eigenmann, University of Delaware, USA
+Michael Gerndt, Technische Universität München, Germany
 Frank Mueller, North Carolina State University, USA
-Martin Schulz, Technische Universität München, Germany -->
+Martin Schulz, Technische Universität München, Germany 
 
 ## Program Committee
-- Kirshanthan Sundararajah, Virginia Tech., USA
-- Doru Popovici, Lawrence Berkeley National Lab., USA
 - Akihiro Ayashi, Georgia Tech, USA
+- Doru Popovici, Lawrence Berkeley National Lab, USA
+- Florina Ciorba, University of Basel, Switzerland
+- Gordon Moon, Sogang University, South Korea
+- Jens Domke, RIKEN, Japan
+- Jing Chen, Chalmers University of Technology, Sweden
+- Jinsung Kim, Chung-Ang University, South Korea
+- Johannes Doerfert, Lawrence Livermore National Lab, USA
 - Jun Shirako, Georgia Tech, USA
+- Kirshanthan Sundararajah, Virginia Tech, USA
+- Malith Jayaweera, AWS, USA
+- Nicholas Bohm-Agostini, Pacific Northwest National Lab, USA
+- Osman Simsek, University of Basel, Switzerland
+- Petros Anastasiadis, Huawei Research, Switzerland
 - Richard Veras, University of Oklahoma, USA
-- Malith Jayaweera, AWS., USA
-- Tiago Cogumbreiro, University of Massachusets, Boston, USA
-
+- Sergio Iserte, Barcelona Supercomputing Center, Spain
+- Sunita Chandrasekaran, University of Delaware, USA
+- Tiago Cogumbreiro, University of Massachusetts Boston, USA
 ---
 <!-- --- -->
 
